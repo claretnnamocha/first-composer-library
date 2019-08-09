@@ -9,5 +9,10 @@
             "email": "devclareo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alpha\\" : "src/"
+        }
+    }
 }
