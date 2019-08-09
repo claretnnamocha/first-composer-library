@@ -1,0 +1,13 @@
+{
+    "name": "clareo/first-composer-package",
+    "description": "A step by step guide to uploading your very first composer package",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Nnamocha Claret",
+            "email": "devclareo@gmail.com"
+        }
+    ],
+    "require": {}
+}
