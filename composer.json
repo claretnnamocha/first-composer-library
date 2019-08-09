@@ -1,7 +1,7 @@
 {
     "name": "clareo/first-composer-package",
     "description": "A step by step guide to uploading your very first composer package",
-    "type": "project",
+    "type": "library",
     "license": "GPL-3.0",
     "authors": [
         {
