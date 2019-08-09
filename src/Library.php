@@ -3,7 +3,7 @@ namespace Alpha;
 
 /**
  * A Simple class in php
- *@author Claret Nnamocha <devclareo@gmail.com>
+ * @author Claret Nnamocha <devclareo@gmail.com>
  */
 
 class Library
